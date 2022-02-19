@@ -3,5 +3,9 @@
 
 ---
 
-[Пример моего тестового задания](https://hwqa.atlassian.net/jira)
-https://docs.google.com/spreadsheets/d/1NrvBX_QVioE44Db97ooSdBfEMSBbw9GAHANDyv3cya8/edit?usp=sharing
+[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1NrvBX_QVioE44Db97ooSdBfEMSBbw9GAHANDyv3cya8/edit?usp=sharing)
+
+---
+
+
+[Пример заведенных багов в Jira](https://hwqa.atlassian.net/jira)
